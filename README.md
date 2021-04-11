@@ -10,5 +10,4 @@
    - Codechef : dqureshiumar
    - Codeforces: dqureshiumar
    - Leetcode: dqureshiumar<br>
-
 <br>My Piece of Daily Motivation : Never give up, know your worth and work hard to achieve whatever you want and with a Good Professional Life maintain a Heathly life too by working out :).
