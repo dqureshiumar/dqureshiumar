@@ -10,6 +10,6 @@
    - Codechef : <a href="https://www.codechef.com/users/dqureshiumar">dqureshiumar</a>
    - Codeforces: <a href="https://codeforces.com/profile/dqureshiumar">dquresiumar</a>
    - Leetcode: <a href="https://leetcode.com/dqureshiumar/">dqureshiumar</a>
-   - Portfolio: <a href="https://bit.ly/dqureshiumar>dqureshiumar</a>
+   - Portfolio: <a href="https://bit.ly/dqureshiumar">dqureshiumar</a>
 
 <br>My Piece of Daily Motivation : Never give up, know your worth and work hard to achieve whatever you want and with a Good Professional Life maintain a Heathly life too by working out :).
