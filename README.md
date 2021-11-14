@@ -7,8 +7,6 @@
 - 📫 How to reach me: You can mail me at dqureshiumar@gmail.com
 - 😄 I love to contribute my knowledge with QnAs on stackoverflow having a reputation score of 441
 - ⚡ Competitive Platforms handle:
-   - Codechef : <a href="https://www.codechef.com/users/dqureshiumar">dqureshiumar</a>
-   - Codeforces: <a href="https://codeforces.com/profile/dqureshiumar">dquresiumar</a>
    - Leetcode: <a href="https://leetcode.com/dqureshiumar/">dqureshiumar</a>
    - Portfolio: <a href="https://bit.ly/dqureshiumar">dqureshiumar</a>
 
